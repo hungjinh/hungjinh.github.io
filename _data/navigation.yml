@@ -1,0 +1,24 @@
+# main links
+main:
+  - title: "About me"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Research"
+    url: /research/
+  - title: "CV"
+    url: /files/cv_HH.pdf
+
+    
+# research sidebar links
+research:
+  - title: Intrinsic Alignment
+    children:
+      - title: "Central Galaxy Alignment"
+        url: /research/ia_cg/
+      - title: "Satellite Galaxy Alignment"
+        url: /research/ia_sg/
+  - title: Baryons
+    children:
+      - title: "Baryon Mitigation"
+        url: /research/baryon_mitigation/
