@@ -1,3 +1,4 @@
 [hungjinh.github.io](https://hungjinh.github.io)
 
-Welcome to my Website!
+Hung-Jin Huang -- personal website
+
