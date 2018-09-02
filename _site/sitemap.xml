@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/cv/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/publications/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/research/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/research/ia_cg/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/research/ia_sg/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/research/baryon_mitigation/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/files/cv_HH.pdf</loc>
+<lastmod>2018-08-12T17:59:44-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/google8a23721912a7a35d.html</loc>
+<lastmod>2018-08-30T23:01:06-04:00</lastmod>
+</url>
+</urlset>
