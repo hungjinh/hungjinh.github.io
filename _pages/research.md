@@ -5,6 +5,7 @@ excerpt: "Research"
 author_profile: false
 sidebar: 
   nav: "research"
+classes: wide
 ---
 
 My research focues on studying astrophysical systematics on weak lensing observables. Aside from shear calibration and photometric redshift systematics, intrinsic alignment and baryonic physics constitute the most significant astrophysical uncertainties in weak lensing measurements. 
@@ -23,7 +24,7 @@ In the presence of intrinsic alignment, the estimated cosmic shear signal would 
 
 
 ## Baryonic effects on matter distribution
-[<img src="/images/PkRatio.png" style="float: right; width: 400px; margin-left: 2%; margin-right: 0.3em; margin-top: 0.0em; margin-bottom: 0.5em;">](/images/PkRatio.png)
+[<img src="/images/PkRatio.png" style="float: right; width: 500px; margin-left: 1em; margin-right: 0.3em; margin-top: 0.0em; margin-bottom: 0.5em;">](/images/PkRatio.png)
 The growth and evolution of large scale structure (LSS) encodes information about cosmology. We measure shapes and positions of galaxies to trace the underlying matter distribution of our Universe, and infer cosmology by comparing the observed summary statistics with theories calibrated through dark-matter-only (DMO) simulations. But besides the gravity interaction, baryonic processes, such as gas cooling or feedbacks from stellar and black hole activities, would also cause significant changes in the distribution of matter, especially on small scale. For example, the left figure shows the power spectrum ratio between hydrodynamical and DMO simulations for various baryonic scenarios at redshift 0. 
 <p style="clear: both;"></p>
 

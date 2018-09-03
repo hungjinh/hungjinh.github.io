@@ -5,7 +5,10 @@ excerpt: "Hdfdsafdsa"
 author_profile: false
 sidebar:
   nav: "research"
+toc: ture
+toc_sticky: true
 ---
+
 
 The **PCA formalism** is an efficient baryonic physics mitigation technique. It utilizes suites of hydrodynamical simulations to build a set of principal components (PCs) to describe the modification of observables by baryonic physics. The PCA formalism has the following nice features:
 - Flexible parametrization to capture a range of possible redshift and scale dependences of baryonic effects on the matter distribution, which is still highly uncertain from the constraints of hydrodynamical simulations.

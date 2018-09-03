@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+classes: wide
 ---
 
 Hi, I'm Hung-Jin Huang, a PhD student at [Carnegie Mellon University](https://www.cmu.edu/physics/). I study the growth of structure in our Universe to understand both cosmology and galaxy formation physics. I work with Prof. [Rachel Mandelbaum](http://www.andrew.cmu.edu/user/rmandelb/) on projects related to weak lensing science, investigating the origin of astrophysical systematics on weak lensing observables. More specifically, I studied intrinsic alignment of galaxies in galaxy clusters. I have been exploring mitigation techniques for baryonic uncertainties, with the goal to better constrain cosmology by incorporating small-scale information in data analysis. Currently, I'm working on extracting the baryonic feature of our Universe from [Dark Energy Survey](https://www.darkenergysurvey.org) data, and comparing it with various cosmological hydrodynamical simulations.
