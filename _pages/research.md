@@ -27,7 +27,7 @@ In the presence of intrinsic alignment, the estimated cosmic shear signal would 
 The growth and evolution of large scale structure (LSS) encodes information about cosmology. We measure shapes and positions of galaxies to trace the underlying matter distribution of our Universe, and infer cosmology by comparing the observed summary statistics with theories calibrated through dark-matter-only (DMO) simulations. But besides the gravity interaction, baryonic processes, such as gas cooling or feedbacks from stellar and black hole activities, would also cause significant changes in the distribution of matter, especially on small scale. For example, the left figure shows the power spectrum ratio between hydrodynamical and DMO simulations for various baryonic scenarios at redshift 0. 
 <p style="clear: both;"></p>
 
-Small-scale LSS information has excessive statistical power to improve cosmological constraints. Developing strategies to handle baryonic uncertainties thus would not only improve the output from large survey experiments, but also gaining insights on galaxy formation physics. 
+Small-scale LSS information has excessive statistical power to improve cosmological constraints. Developing [mitigation strategies]({{ "/research/baryon_mitigation/" | relative_url }}) to handle baryonic uncertainties thus would not only improve the output from large survey experiments, but also gaining insights on galaxy formation physics. 
 
 
 

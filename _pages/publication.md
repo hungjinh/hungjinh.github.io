@@ -10,6 +10,8 @@ author_profile: true
 
 ### First Author Papers
 
+* <b>Modeling baryonic physics in future weak lensing surveys.</b> <br>
+ <b>H.-J. Huang</b>, T. Eifler, R. Mandelbaum, S. Dodelson. 2018, arXiv.
 
 * <b>[Intrinsic alignment in redMaPPer clusters - II. Radial alignment of satellites towards cluster centres.](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1704.06273)</b> <br>
  <b>H.-J. Huang</b>, R. Mandelbaum, P. Freeman, Y.-C. Chen, E. Rozo, E. Rykoff. 2018, MNRAS, 474, 4772.

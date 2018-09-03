@@ -18,7 +18,7 @@ research:
         url: /research/ia_cg/
       - title: "Satellite Galaxy Alignment"
         url: /research/ia_sg/
-  - title: Baryons
+  - title: Baryonic effects
     children:
-      - title: "Baryon Mitigation"
+      - title: "PCA mitigation"
         url: /research/baryon_mitigation/
