@@ -35,7 +35,7 @@ We idenfy the PC basis set of <b>Δ<sub>ch</sub></b> through the [singular value
 
 We can construct models with baryonic features via 
 <img src="/images/Mbary.png" style="float: center; width: 360px; margin-left: 5em; margin-right: 0.5em; margin-top: 0.0em; margin-bottom: 0.1em;">, \\
-with the cosmological dependence coming in through the DMO theoritical models <b>M(p<sub>co</sub>)</b>, and the baryonic effects being characterized through the amplitudes of PC modes  Q<sub>i</sub>. 
+with the cosmological dependence coming in through the DMO theoritical models <b>M</b>(<b>p<sub>co</sub></b>), and the baryonic effects being characterized through the amplitudes of PC modes  Q<sub>i</sub>. 
 We have validated the flexibility of this parametrization for an LSST-like survey under several baryonic scenarios. 
 
 ## Performances of PCA
