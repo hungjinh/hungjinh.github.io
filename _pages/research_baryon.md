@@ -16,6 +16,7 @@ The **PCA formalism** is an efficient baryonic physics mitigation technique. It 
 
 
 ## How does PCA work ? 
+Below are the procedures of applying the PCA technique to model baryonic effects on cosmic shear observables.  
 
 `Step 1` **Build difference matrix** <b>Δ</b>
 
@@ -31,19 +32,19 @@ We weight the difference matrix <b>Δ</b> by the noise factor <b>L<sup>-1</sup><
 `Step 3` **Perform PCA on** <b>Δ<sub>ch</sub></b>
 
 We idenfy the PC basis set of <b>Δ<sub>ch</sub></b> through the [singular value decomposition (SVD)](http://web.mit.edu/be.400/www/SVD/Singular_Value_Decomposition.htm) analysis. The first _N_ PC modes can be used to efficiently span the baryonic fluctuations in each column of <b>Δ<sub>ch</sub></b>, i.e. the <b>B<sub>sim x,ch</sub></b>-<b>M<sub>ch</sub></b> vector. 
-<img src="/images/B_M.png" style="float: center; width: 380px; margin-left: 4em; margin-right: 0.5em; margin-top: 0.0em; margin-bottom: 0.1em;">
+<img src="/images/B_M.png" style="float: center; width: 390px; margin-left: 18%; margin-right: 0.5em; margin-top: 0.0em; margin-bottom: 0.1em;">
 
 
 `Step 4` **Generating baryonic models via combination of PC modes**
 
 We can construct models with baryonic features via 
-<img src="/images/Mbary.png" style="float: center; width: 360px; margin-left: 5em; margin-right: 0.5em; margin-top: 0.0em; margin-bottom: 0.1em;">, \\
-with the cosmological dependence coming in through the DMO theoritical models <b>M</b>(<b>p<sub>co</sub></b>), and the baryonic effects being characterized through the amplitudes of PC modes  Q<sub>i</sub>. 
-We have validated the flexibility of this parametrization for an LSST-like survey under several baryonic scenarios. 
+<img src="/images/Mbary.png" style="float: center; width: 360px; margin-left: 18%; margin-right: 0.5em; margin-top: 0.0em; margin-bottom: 0.1em;">. \\
+The cosmological dependence comes in through the DMO theoritical models <b>M</b>(<b>p<sub>co</sub></b>), and the impact of baryons is characterized through the amplitudes of PC modes  Q<sub>i</sub>. 
+We have validated the flexibility of this parametrization in an LSST-like survey under several baryonic scenarios.
 
 ## Performances of PCA
 
-[<img src="/images/MCMC_ill.png" style="float: center; width: 500px; margin-left: 3em">](/images/MCMC_ill.png)
+[<img src="/images/MCMC_ill.png" style="float: center; width: 500px; margin-left: 8%">](/images/MCMC_ill.png)
 
 We demonstrate in the above figure the effectiveness of applying the PCA technique to mitigate baryonic effects if our Universe were like the [Illustris](http://www.illustris-project.org) simulation. The biases in cosmological parameters reduced after marginalizing over few PC modes. 
 
