@@ -11,26 +11,35 @@ classes: wide
 
 ### First Author Papers
 
-* <b>[Modeling baryonic physics in future weak lensing surveys.](https://arxiv.org/abs/1809.01146)</b> <br>
- <b>H.-J. Huang</b>, T. Eifler, R. Mandelbaum, S. Dodelson. 2018, arXiv: 1809.01146
+* <b>[Dark Energy Survey Year 1 Results: Constraining Baryonic Physics in the Universe.](https://arxiv.org/abs/2007.15026)</b> <br>
+ <b>H.-J. Huang</b>, T. Eifler, R. Mandelbaum and the DES Collaboration et al. 2021, MNRAS
 
-* <b>[Intrinsic alignment in redMaPPer clusters - II. Radial alignment of satellites towards cluster centres.](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1704.06273)</b> <br>
+* <b>[Modeling baryonic physics in future weak lensing surveys.](https://arxiv.org/abs/1809.01146)</b> <br>
+ <b>H.-J. Huang</b>, T. Eifler, R. Mandelbaum, S. Dodelson. 2019, MNRAS, 488, 2.
+
+* <b>[Intrinsic alignment in redMaPPer clusters - II. Radial alignment of satellites towards cluster centres.](https://arxiv.org/abs/1704.06273)</b> <br>
  <b>H.-J. Huang</b>, R. Mandelbaum, P. Freeman, Y.-C. Chen, E. Rozo, E. Rykoff. 2018, MNRAS, 474, 4772.
 
 
-* <b>[Intrinsic alignments in redMaPPer clusters - I. Central galaxy alignments and angular segregation of satellites.](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1605.01065)</b> <br>
+* <b>[Intrinsic alignments in redMaPPer clusters - I. Central galaxy alignments and angular segregation of satellites.](https://arxiv.org/abs/1605.01065)</b> <br>
  <b>H.-J. Huang</b>, R. Mandelbaum, P. Freeman, Y.-C. Chen, E. Rozo, E. Rykoff, E. Baxter. 2016, MNRAS, 463, 222.
 
 
 ### Co-author Papers
 
-* <b>[An Analysis Framework for Understanding the Origin of Nuclear Activity in Low-power Radio Galaxies.](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1803.02482)</b> <br>
+* <b>[Cosmology with the Wide-Field Infrared Survey Telescope – Multi-Probe Strategies.](https://arxiv.org/abs/2004.05271)</b> <br>
+T. Eifler, H. Miyatake, E. Krause, C. Heinrich, V. Miranda, C. Hirata, J. Xu et al. 2020.
+
+* <b>[Cosmology with the Wide-Field Infrared Survey Telescope -- Synergies with the Rubin Observatory Legacy Survey of Space and Time.](https://arxiv.org/abs/2004.04702)</b> <br>
+T. Eifler, M. Simet, E. Krause, C. Hirata, <b>H.-J. Huang</b>, X. Fang, V. Miranda, R. Mandelbaum et al. 2020.
+
+* <b>[An Analysis Framework for Understanding the Origin of Nuclear Activity in Low-power Radio Galaxies.](https://arxiv.org/abs/1803.02482)</b> <br>
  Y.-T. Lin, <b>H.-J. Huang</b>, Y.-C. Chen. 2018, AJ, 155, 188.
 
-* <b>[On Detecting Halo Assembly Bias with Galaxy Populations.](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1504.07632)</b> <br>
+* <b>[On Detecting Halo Assembly Bias with Galaxy Populations.](https://arxiv.org/abs/1504.07632)</b> <br>
  Y.-T. Lin, R. Mandelbaum, Y.-H. Huang, <b>H.-J. Huang</b>, N. Dalal, B. Diemer, H.-Y. Jian, A. Kravtsov. 2016, ApJ, 819, 119.
 
-* <b>[Stellar mass assembly of brightest cluster galaxies at late times.](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1409.4820)</b> <br>
+* <b>[Stellar mass assembly of brightest cluster galaxies at late times.](https://arxiv.org/abs/1409.4820)</b> <br>
  T. Inagaki, Y.-T. Lin, <b>H.-J. Huang</b>, B.-C. Hsieh, N. Sugiyama. 2015, MNRAS, 446, 1107.
 
 

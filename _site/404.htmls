@@ -177,7 +177,7 @@
     
     
       <p class="author__bio" itemprop="description">
-        Astrophysicist / PhD student @ CMU
+        Researcher in cosmology and astrophysics
       </p>
     
   </div>
@@ -187,7 +187,7 @@
     <ul class="author__urls social-icons">
       
         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Pittsburgh, PA</span>
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Tucson, AZ</span>
         </li>
       
 
@@ -195,8 +195,8 @@
 
       
         <li>
-          <a href="mailto:hungjinh@andrew.cmu.edu">
-            <meta itemprop="email" content="hungjinh@andrew.cmu.edu" />
+          <a href="mailto:hungjinh@email.arizona.edu">
+            <meta itemprop="email" content="hungjinh@email.arizona.edu" />
             <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email
           </a>
         </li>
@@ -344,7 +344,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2018 Hung-Jin Huang. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2021 Hung-Jin Huang. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>

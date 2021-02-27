@@ -102,9 +102,9 @@ analytics:
 author:
   name             : "Hung-Jin Huang"
   avatar           : "/images/icon.png"
-  bio              : "Astrophysicist / PhD student @ CMU"
-  location         : "Pittsburgh, PA"
-  email            : "hungjinh@andrew.cmu.edu"
+  bio              : "Researcher in cosmology and astrophysics"
+  location         : "Tucson, AZ"
+  email            : "hungjinh@email.arizona.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
